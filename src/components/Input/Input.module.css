@@ -1,0 +1,7 @@
+.Input {
+    margin-top: 1rem;
+}
+
+.Input > * {
+    margin-right: .5rem;
+}
